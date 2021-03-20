@@ -28,7 +28,7 @@ const House = {
 };
 
 console.log("The House Info:", House);
-```
+```js
 ![image](https://user-images.githubusercontent.com/49828191/111854945-661cf800-8922-11eb-8305-978863e2c297.png)
 
 
@@ -41,6 +41,6 @@ console.log("The Shelf value before:", House.bedRoom.Shelf);
 
 House.newbedRoom(5, 4);
 console.log("The Shelf value after:", House.bedRoom.Shelf);
-```
+```js
 ![image](https://user-images.githubusercontent.com/49828191/111855001-9cf30e00-8922-11eb-99c4-4368096ca192.png)
 
